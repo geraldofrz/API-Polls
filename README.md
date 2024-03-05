@@ -30,7 +30,7 @@ I created this API with the purpose of learning the use of WebSockets for real-t
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+### Requirements
 
 Before you begin, you'll need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com/). 
 
