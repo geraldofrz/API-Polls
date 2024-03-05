@@ -61,7 +61,7 @@ $ docker compose up -d
 $ git clone <https://github.com/geraldofrz/API-Polls>
 
 # Access the project folder in the terminal/cmd.
-$ cd poll
+$ cd polls
 
 # Install dependencies
 $ npm install
