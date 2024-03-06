@@ -3,8 +3,6 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -33,21 +31,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Requirements
 
 Before you begin, you'll need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com/). 
-
-```bash
-# Clone this repository
-$ git clone <https://github.com/geraldofrz/API-Polls>
-
-# Access the project folder in the terminal/cmd.
-$ cd poll
-
-# Install dependencies
-$ npm install
-
-# Setup PostgreSQL and Redis 
-$ docker compose up -d
-
-```
 
 ### Installing
 
