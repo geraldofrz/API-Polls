@@ -3,6 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -124,7 +126,7 @@ Add a vote to specific poll.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@geraldofrz](https://github.com/geraldofrz) - 
+- [@geraldofrz](https://github.com/geraldofrz) 
 
 
 
