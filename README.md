@@ -12,7 +12,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Index
 
 - [About](#about)
 - [Getting Started](#getting_started)
